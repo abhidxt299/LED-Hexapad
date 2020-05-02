@@ -1,1 +1,1 @@
-LED_Hexapad
+This project is about building a music system using hexapads. A capacitive touch sensor was created to sense the touch on each pad and play the music accordingly. We used neopixels (can use LEDs also) to create an animation for the musical sound prodcued at each touch of the pads. Microsoft MIDI was used to provide the musical output. 
